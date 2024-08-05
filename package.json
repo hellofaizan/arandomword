@@ -1,6 +1,6 @@
 {
   "name": "arandomword",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A random word generator for FindSaaS",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:hellofaizan/randomwords.git"
+    "url": "git@github.com:hellofaizan/arandomword.git"
   },
   "keywords": [
     "random",
