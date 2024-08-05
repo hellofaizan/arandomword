@@ -1,0 +1,33 @@
+{
+  "name": "arandomword",
+  "version": "1.0.1",
+  "description": "A random word generator for FindSaaS",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hellofaizan/randomwords.git"
+  },
+  "keywords": [
+    "random",
+    "words",
+    "words",
+    "word",
+    "generator",
+    "sample",
+    "text",
+    "npmlibrary"
+  ],
+  "author": "HelloFaizan",
+  "license": "MIT",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.0"
+  }
+}
